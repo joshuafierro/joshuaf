@@ -21,4 +21,10 @@ An end-to-end feature proposal addressing a major user experience loophole by en
 ## 🛠️ Core Competencies
 * **Product Execution:** Product Roadmapping, Backlog Grooming, User Stories, Given-When-Then Acceptance Criteria.
 * **Prioritization Frameworks:** RICE, MoSCoW, Opportunity Scoring.
-* **Technical Architecture:** 
+
+## 🛠️ Technical Context & Engineering Empathy
+*   **System Architecture & APIs:** Deep understanding of modern stack components (**TypeScript, JavaScript, Node.js, Express.js, Java**) and **RESTful API design**. I can map out data flows and cut feature scope without breaking backend dependencies.
+*   **Data Literacy:** Fluent in **SQL** and **Python**. This allows me to query database schemas directly for product analytics, design precise telemetry tracking, and evaluate data models without relying on data analyst hand-holding.
+*   **Cloud Infrastructure & DevOps:** Hands-on experience with **AWS (S3, Lambda, Route 53, CloudFront, IAM)**, **Docker**, and **Bash**. I understand hosting costs, serverless processing limitations, and deployment environment constraints.
+*   **Agile Release Management:** Native fluency in **Git** workflows, branching strategies, and CI/CD concepts. I speak the same language as your engineering team, allowing for frictionless backlog grooming and accurate sprint planning.
+*   **Frontend Literacy:** Experienced with **React** and other frontend frameworks/libraries which allows me to effectively collaborate with UI/UX designers and engineers to evaluate frontend component reusability and minimize user-facing design friction.
