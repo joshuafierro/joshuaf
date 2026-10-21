@@ -1,6 +1,7 @@
 ---
 layout: default
-title: ZipRecruiter Feature Proposal
+title: ZipRecruiter Proposal
+nav_order: 3
 ---
 
 # 📋 Product Proposal: Multi-Resume Management & Target Apply
