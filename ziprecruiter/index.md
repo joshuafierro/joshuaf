@@ -12,8 +12,8 @@ title: ZipRecruiter Feature Proposal
 ## 1. Executive Summary & Objective
 ZipRecruiter’s core value proposition is the **"1-Click Apply"** mechanism. However, the platform currently restricts candidates to hosting exactly **one active resume** at a time. In the modern job market, candidates heavily tailor their resumes to distinct roles.
 
-> [!IMPORTANT]
 > **The Problem:** Users must manually overwrite their single resume profile whenever applying to a different job type. This breaks the friction-free "1-Click" experience and risks sending the wrong resume to automated recruiter pipelines.
+{: .note }
 >
 > **The Objective:** Enable job seekers to upload, label, and manage up to three (3) distinct resumes simultaneously and seamlessly select the optimal version during the 1-Click Apply flow.
 
