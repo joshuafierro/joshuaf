@@ -23,9 +23,11 @@ In social media management platforms, consistency and speed are key. However, so
 
 ## 2. Strategic Context & Feature Discovery
 
-### The User Friction Loop
+### User Persona & Friction Loop
 
-*   **The Solution:** Insert an AI generation engine directly into the creation window. By supplying up to 200 character word description of the photo, the engine automates the entire copywriting and formatting process in under 5 seconds.
+* **Persona**: Social Media Manager who is required to create, schedule, and post multiple pieces of content per day for enterprise clients.
+* **Current UX Loophole**: User uploads content to schedule ➔ User must take time to ideate and write out captions for each post ➔ User then schedules time to post.
+* **The Solution:** Insert an AI generation engine directly into the creation window. By supplying up to 200 character word description of the photo, the engine automates the entire copywriting and formatting process in under 5 seconds.
 
 ### The Technical PO Advantage
 Because this required a 5-hour turnaround, I used my engineering background to balance feature scope with technical limitations:
