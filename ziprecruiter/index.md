@@ -69,22 +69,22 @@ To ensure a lean, iterative release, features are prioritized using a simplified
   * **When** they have more than one resume uploaded,
   * **Then** they are prompted to choose which resume to utilize via a micro modal,
   * **And** the "Primary Default" resume must be pre-selected.
-* **When** they select an alternate resume and hit "Submit Application",
+* **When** they select an alternate resume and hit "Confirm and Apply",
   * **Then** that specific resume on file is transmitted to the recruiter without changing the global "Primary Default" settings on their profile.
 
 ---
 
 ## 5. Technical Design and Wireframes
 
-```text
-🖼️ [Wireframe 1: Profile Settings Page Layout]
+Wireframe 1: Profile Settings Page Layout
 Showing the new slot structure accommodating 3 file blocks instead of 1.
-```
 
-```text
-🖼️ [Wireframe 2: The 1-Click Dropdown]
-Showing how the quick-apply button expands safely to let users tap their preferred resume file.
-```
+![Proposed Add Resume UX Flow](./add_resume_mockup.jpg)
+
+Wireframe 2: The 1-Click Dropdown
+
+![Proposed Mobile UX Flow](./mobile_mockup.jpg)
+![Proposed Web UX Flow](./web_mockup.jpg)
 
 ---
 
