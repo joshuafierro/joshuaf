@@ -5,7 +5,7 @@ title: ZipRecruiter Feature Proposal
 
 # 📋 Product Proposal: Multi-Resume Management & Target Apply
 **Platform:** ZipRecruiter Candidate Ecosystem | **Role:** Product Owner (Portfolio Initiative)
-**Status:** MVP Scope Defined | **Artifact Links:** [📊 Live Project Board](#) • [🛠️ Sprint Issues](#)
+**Status:** MVP Scope Defined
 
 ---
 
