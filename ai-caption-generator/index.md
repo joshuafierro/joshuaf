@@ -34,7 +34,7 @@ Because this required a 5-hour turnaround, I used my engineering background to b
 ---
 
 ## 3. Scope Slicing & The 5-Hour MVP Matrix
-To ensure a working product by the submission deadline, features were ruthlessly prioritized:
+To ensure a working product by the submission deadline, features were heavily prioritized:
 
 | Feature Item | Reach | Impact | Confidence | Effort | Hackathon Scope |
 | :--- | :---: | :---: | :---: | :---: | :--- |
