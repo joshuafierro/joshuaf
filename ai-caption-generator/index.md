@@ -66,7 +66,6 @@ To ensure a working product by the submission deadline, features were heavily pr
 ---
 
 ## 5. Technical Design & Integration Architecture
-*(Replace this placeholder text with your architecture diagrams or screenshots of your working hackathon UI)*
 
 ```text
 [Frontend StencilJS] ➔ POST /api/generate ➔ [Express.js Backend] ➔ Fetch Request ➔ [OpenAI API]
