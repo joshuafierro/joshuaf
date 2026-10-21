@@ -14,6 +14,10 @@ I bridge the gap between business strategy and system architecture. With a stron
 
 ## 📂 Featured Case Studies
 
+### 🚀 [AI Caption Generator: Automated Social Copywriting Pipeline](./ai-caption-generator)
+An end-to-end hackathon initiative addressing user onboarding bottlenecks by integrating a generative OpenAI GPT pipeline to instantly construct context-aware captions, emojis, and tags.
+* Includes a 5-hour lean MVP feature matrix, agile user stories, and technical system architecture.
+
 ### 📱 [ZipRecruiter: Multi-Resume Management & Target Apply](./ziprecruiter/)
 An end-to-end feature proposal addressing a major user experience loophole by enabling job seekers to host up to 3 tailored resumes simultaneously. 
 * Includes a live product roadmap, user stories, and acceptance criteria.
