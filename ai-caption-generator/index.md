@@ -1,6 +1,7 @@
 ---
 layout: default
 title: AI Caption Generator
+nav_order: 2
 ---
 
 # 🚀 Hackathon Initiative: Automated AI Social Caption Engine
